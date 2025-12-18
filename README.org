@@ -1,0 +1,9 @@
+* specialization-store
+
+Store functions whose behavior depends on the types of objects passed.
+
+|---------+-----------------------------------------------------------|
+| source  | git:https://github.com/markcox80/specialization-store.git |
+| commit  | 8d39a86                                                   |
+| systems | specialization-store                                      |
+|---------+-----------------------------------------------------------|
